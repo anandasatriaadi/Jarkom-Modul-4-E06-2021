@@ -100,7 +100,7 @@
 | A15 | 10.32.72.0 | 255.255.255.252 | 10.32.72.3 |
 
 ## Tree CIDR
-![Link](https://miro.com/app/board/o9J_lhFuRKU=/?invite_link_id=749360710143)
+https://miro.com/app/board/o9J_lhFuRKU=/?invite_link_id=749360710143
 
 ## Konfigurasi
 ### Router
